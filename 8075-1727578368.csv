@@ -50,10 +50,10 @@ IP??,??,????,TLS,????,??,??,TCP??(ms),??(MB/s)
 172.174.249.255,443,443,TRUE,IAD,North America,Ashburn,324,6.73
 4.172.225.82,8443,443,TRUE,YYZ,North America,Toronto,413,6.55
 4.172.225.98,8443,443,TRUE,YYZ,North America,Toronto,255,6.4
-4.248.47.209,8443,443,TRUE,YUL,North America,Montréal,322,5.85
+4.248.47.209,8443,443,TRUE,YUL,North America,MontrÃ©al,322,5.85
 172.208.44.21,443,443,TRUE,IAD,North America,Ashburn,392,5.64
 4.221.60.243,2053,443,TRUE,JNB,Africa,Johannesburg,371,5.12
 4.221.60.243,8443,443,TRUE,JNB,Africa,Johannesburg,298,4.75
-191.235.86.71,8443,443,TRUE,GRU,South America,São Paulo,342,3.44
+191.235.86.71,8443,443,TRUE,GRU,South America,SÃ£o Paulo,342,3.44
 13.88.29.102,443,443,TRUE,SJC,North America,San Jose,168,2.07
 98.67.149.214,2053,443,TRUE,FRA,Europe,Frankfurt,214,1
